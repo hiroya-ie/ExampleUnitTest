@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.is.e195738;
+package jp.ac.uryukyu.ie.e195738;
 
 /**
  * Created by tnal on 2016/11/13.
